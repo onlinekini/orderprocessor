@@ -2,9 +2,9 @@
 orderpro/.settings/
 orderpro/orderpro-asn/.project
 orderpro/orderpro-asn/.settings/
-orderpro/orderpro-auth/.classpath
-orderpro/orderpro-auth/.project
-orderpro/orderpro-auth/.settings/
+orderpro-auth/.classpath
+orderpro-auth/.project
+orderpro-auth/.settings/
 orderpro/orderpro-community/.classpath
 orderpro/orderpro-community/.project
 orderpro/orderpro-community/.settings/
